@@ -1,0 +1,9 @@
+[package]
+name = "video-reducer"
+version = "0.1.0"
+authors = ["Unoqwy <julien.qwy@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# TEST DEP: read .jpg test frames
+image = "0.23.8"
